@@ -11,8 +11,8 @@ TagManager:
   - Background
   - Water
   - UI
-  - 
-  - 
+  - SolidObjects
+  - NPCLayer
   - 
   - 
   - 
@@ -43,4 +43,10 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 750689565
+    locked: 0
+  - name: player
+    uniqueID: 2183001947
+    locked: 0
+  - name: SolidObjectLayer
+    uniqueID: 1125406249
     locked: 0
