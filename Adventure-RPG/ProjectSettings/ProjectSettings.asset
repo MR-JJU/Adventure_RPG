@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b818fa16a6ac1644a81d066017eaf359
+  productGUID: 547289a0ecfdfb84d93b82d026e9de65
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Adventure-RPG
+  productName: My testproject
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -623,14 +623,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Adventure-RPG
+  metroPackageName: My testproject
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Adventure-RPG
+  metroApplicationDescription: My testproject
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -698,10 +698,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 60872b43-c14d-4f06-894f-67f61cb6eaf1
+  cloudProjectId: 7aba7fbd-1b54-4dbc-a837-c47348c35c28
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Adventure-RPG
+  projectName: My testproject
   organizationId: mr-jju
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
